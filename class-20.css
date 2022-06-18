@@ -1,0 +1,14 @@
+.logo-width {
+	width: 78px;
+}
+.logo-width img{
+  width: 100%;
+}
+.header-section{
+  background-color: #e3f2fd;
+}
+.slider-img{
+  height: 350px;
+  width: 100%;
+  object-fit: cover;
+}
